@@ -1,0 +1,17 @@
+p {
+	padding: 40px;
+	font-size: larger;
+	border-style: solid;
+	margin: 40px;
+}
+
+p:hover {
+	cursor: pointer;
+}
+
+#container {
+	margin-top: 10%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
